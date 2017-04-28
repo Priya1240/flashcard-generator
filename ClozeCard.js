@@ -1,3 +1,6 @@
+
+
+
 var ClozeCard = function(text, cloze) {
 
     this.text = text;
@@ -5,7 +8,7 @@ var ClozeCard = function(text, cloze) {
     this.partial = text.replace(cloze, "...");
     this.fullText = this.text;
     	
-    }
+        }
 
 module.exports = ClozeCard;
 

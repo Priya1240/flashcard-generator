@@ -1,0 +1,51 @@
+[
+
+{	
+	"front": "What is the capital of Georgia?",
+	"back": "Atlanta"
+},
+
+{
+	"front": "What is the capital of Pennsylvania?",
+	"back": "Harrisburg"
+},
+
+{
+	"front": "What is the capital of California?",
+	"back": "Sacramento"
+},
+
+{
+	"front": "What is the capital of Alaska?",
+	"back": "Juneau"
+},
+
+{
+	"front": "What is the capital of Tennesse",
+	"back": "Memphis"
+},
+
+{
+	"front": "What is the capital of Alabama?",
+	"back": "Montgomery"
+},
+
+{
+	"front": "What is the capital of Arizona?",
+	"back": "Phoenix"
+},
+
+{
+	"front": "What is the capital of Arkansas?",
+	"back": "Little Rock"
+},
+{
+	"front": "What is the capital of Colorado?",
+	"back": "Denver"
+},
+{
+	"front": "What is the capital of Delaware?",
+	"back": "Dover"
+}
+
+]
