@@ -7,8 +7,12 @@ var BasicCard = require("./BasicCard.js");
 var counter = 0;
 var correctAns = 0;
 
+console.log("Welcome to the Flashcard Game!");
+
 function start() {
     correctAns = 0;
+    counter = 0;
+    
     inquirer.prompt([{
         type: "input",
         name: "game",
@@ -17,9 +21,11 @@ function start() {
     }]).then(function(answers) {
         if (answers.game.toLowerCase() == "basic") {
             AskQuest();
-        } else {
+        }
+        if (answers.game.toLowerCase() == "cloze") {
             AskCloze();
         }
+      
     });
 }
 

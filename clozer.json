@@ -1,8 +1,7 @@
 [
-
 {	
-	"text": "... was the first President of the Unites States?",
-	"cloze": "George Washington"
+	"text": "... is the capital of Georgia?",
+	"cloze": "Atlanta"
 },
 
 {
@@ -13,6 +12,40 @@
 {
 	"text": "... is the capital of California?",
 	"cloze": "Sacramento"
+},
+
+{
+	"text": "... is the capital of Alaska?",
+	"cloze": "Juneau"
+},
+
+{
+	"text": "... is the capital of Tennesse",
+	"cloze": "Memphis"
+},
+
+{
+	"text": "... is the capital of Alabama?",
+	"cloze": "Montgomery"
+},
+
+{
+	"text": "... is the capital of Arizona?",
+	"cloze": "Phoenix"
+},
+
+{
+	"text": "... is the capital of Arkansas?",
+	"cloze": "Little Rock"
+},
+{
+	"text": "... is the capital of Colorado?",
+	"cloze": "Denver"
+},
+{
+	"text": "... is the capital of Delaware?",
+	"cloze": "Dover"
 }
+
 
 ]
